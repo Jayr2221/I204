@@ -2,9 +2,6 @@
 <html>
 <head> <title>GIGIDI </title>
 <body>
-
-
-    
 </body>
 </head>
 </html>
